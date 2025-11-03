@@ -73,7 +73,10 @@ class ItemResultCountFertilizers extends StatelessWidget {
                                   style: ElevatedButton.styleFrom(
                                     backgroundColor: Colors.redAccent,
                                   ),
-                                  child: const Text('Hapus', style: TextStyle(color: Colors.white),),
+                                  child: const Text(
+                                    'Hapus',
+                                    style: TextStyle(color: Colors.white),
+                                  ),
                                 ),
                               ],
                             );
@@ -108,13 +111,21 @@ class ItemResultCountFertilizers extends StatelessWidget {
                     fontSize: 16,
                     fontWeight: FontWeight.bold),
               ),
-              const SizedBox(height: 4),
+              const SizedBox(height: 8),
               Text(
-                "Nama Pupuk Campuran: ${rcnaf.fertilizerNames}",
+                "Nama Pupuk Campuran:",
                 style: const TextStyle(
                     color: Colors.white,
                     fontSize: 16,
                     fontWeight: FontWeight.bold),
+              ),
+              Text(
+                rcnaf.fertilizerNames,
+                style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 16,),
+                softWrap: true,
+                overflow: TextOverflow.visible,
               ),
             ],
           ),
@@ -210,6 +221,24 @@ class ItemResultCountFertilizers extends StatelessWidget {
                 children: [
                   const Text("Seng (Zn):"),
                   Text("${rcnaf.totalPercentSeng}% (${rcnaf.totalGramSeng} g)"),
+                ],
+              ),
+
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  const Text("Kalsium (Ca):"),
+                  Text(
+                      "${rcnaf.totalPercentKalsium}% (${rcnaf.totalGramKalsium} g)"),
+                ],
+              ),
+
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  const Text("Sulfur (S):"),
+                  Text(
+                      "${rcnaf.totalPercentSulfur}% (${rcnaf.totalGramSulfur} g)"),
                 ],
               ),
               // Tambahkan unsur hara lainnya sesuai kebutuhan

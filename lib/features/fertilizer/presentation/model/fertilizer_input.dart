@@ -14,5 +14,7 @@ class FertilizerInput {
     'Mangan': TextEditingController(),
     'Molibdenum': TextEditingController(),
     'Seng': TextEditingController(),
+    'Kalsium': TextEditingController(),
+    'Sulfur': TextEditingController(),
   };
 }

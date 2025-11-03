@@ -4,6 +4,8 @@ class StringConst {
   static const String ADD_FERTILIZER_BTN_LABEL = 'Tambah Pupuk';
   static const String SAVE_FERTILIZER_BTN_LABEL = 'Hitung Fertilizers';
 
+  static const String RESET_FORM_BTN_LABEL = "Reset";
+
   // Table Names
   static const String FERTILIZERS_TABLE = 'fertilizers';
   static const String RESULT_COUNT_NUTRIENTS_PER_FERTILIZER_TABLE = 'result_count_nutrients_per_fertilizer';
@@ -20,4 +22,6 @@ class StringConst {
   static const String MANGAN = 'Mangan';
   static const String MOLIBDENUM = 'Molibdenum';
   static const String SENG = 'Seng';
+  static const String KALSIUM = 'Kalsium';
+  static const String SULFUR = 'Sulfur';
 }

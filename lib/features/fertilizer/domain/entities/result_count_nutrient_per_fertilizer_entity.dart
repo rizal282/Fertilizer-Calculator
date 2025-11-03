@@ -23,6 +23,10 @@ class ResultCountNutrientPerFertilizerEntity {
   final double totalGramMolibdenum;
   final double totalPercentSeng;
   final double totalGramSeng;
+  final double totalPercentKalsium;
+  final double totalGramKalsium;
+  final double totalPercentSulfur;
+  final double totalGramSulfur;
   final String? createdAt;
 
   const ResultCountNutrientPerFertilizerEntity({
@@ -50,6 +54,10 @@ class ResultCountNutrientPerFertilizerEntity {
     required this.totalGramMolibdenum,
     required this.totalPercentSeng,
     required this.totalGramSeng,
+    required this.totalPercentKalsium,
+    required this.totalGramKalsium,
+    required this.totalPercentSulfur,
+    required this.totalGramSulfur,
     this.createdAt,
   });
 
@@ -95,6 +103,15 @@ class ResultCountNutrientPerFertilizerEntity {
         return totalPercentSeng;
       case 'total_gram_seng':
         return totalGramSeng;
+
+      case 'total_percent_kalsium':
+        return totalPercentKalsium;
+      case 'total_gram_kalsium':
+        return totalGramKalsium;
+      case 'total_percent_sulfur':
+        return totalPercentSulfur;
+      case 'total_gram_sulfur':
+        return totalGramSulfur;
       default:
         throw ArgumentError('Nutrient $key tidak dikenal');
     }

@@ -17,6 +17,8 @@ class FertilizerModel extends FertilizerEntity {
     required double mangan,
     required double molibdenum,
     required double seng,
+    required double kalsium,
+    required double sulfur,
     String? createdAt,
     String? updatedAt,
   }) : super(
@@ -34,6 +36,8 @@ class FertilizerModel extends FertilizerEntity {
           mangan: mangan,
           molibdenum: molibdenum,
           seng: seng,
+          kalsium: kalsium,
+          sulfur: sulfur,
           createdAt: createdAt,
           updatedAt: updatedAt,
         );
@@ -55,8 +59,12 @@ class FertilizerModel extends FertilizerEntity {
       mangan: entity.mangan,
       molibdenum: entity.molibdenum,
       seng: entity.seng,
-      createdAt: entity.createdAt ?? DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
-      updatedAt: entity.updatedAt ?? DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
+      kalsium: entity.kalsium,
+      sulfur: entity.sulfur,
+      createdAt: entity.createdAt ??
+          DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
+      updatedAt: entity.updatedAt ??
+          DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
     );
   }
 
@@ -76,6 +84,8 @@ class FertilizerModel extends FertilizerEntity {
       'mangan': mangan,
       'molibdenum': molibdenum,
       'seng': seng,
+      'kalsium': kalsium,
+      'sulfur': sulfur,
       'created_at': createdAt,
       'updated_at': updatedAt,
     };
@@ -97,6 +107,8 @@ class FertilizerModel extends FertilizerEntity {
       mangan: map['mangan'] ?? 0.0,
       molibdenum: map['molibdenum'] ?? 0.0,
       seng: map['seng'] ?? 0.0,
+      kalsium: map['kalsium'] ?? 0.0,
+      sulfur: map['sulfur'] ?? 0.0,
       createdAt: map['created_at'],
       updatedAt: map['updated_at'],
     );

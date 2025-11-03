@@ -13,6 +13,8 @@ class FertilizerEntity {
   final double mangan;
   final double molibdenum;
   final double seng;
+  final double kalsium;
+  final double sulfur;
   final String? createdAt;
   final String? updatedAt;
 
@@ -31,6 +33,8 @@ class FertilizerEntity {
     required this.mangan,
     required this.molibdenum,
     required this.seng,
+    required this.kalsium,
+    required this.sulfur,
     this.createdAt,
     this.updatedAt,
   });

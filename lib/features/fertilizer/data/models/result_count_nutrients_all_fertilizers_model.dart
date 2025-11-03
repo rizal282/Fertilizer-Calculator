@@ -28,6 +28,10 @@ class ResultCountNutrientsAllFertilizersModel
     required double totalGramMolibdenum,
     required double totalPercentSeng,
     required double totalGramSeng,
+    required double totalPercentKalsium,
+    required double totalGramKalsium,
+    required double totalPercentSulfur,
+    required double totalGramSulfur,
     String? createdAt,
   }) : super(
           id: id,
@@ -54,6 +58,10 @@ class ResultCountNutrientsAllFertilizersModel
           totalGramMolibdenum: totalGramMolibdenum,
           totalPercentSeng: totalPercentSeng,
           totalGramSeng: totalGramSeng,
+          totalPercentKalsium: totalPercentKalsium,
+          totalGramKalsium: totalGramKalsium,
+          totalPercentSulfur: totalPercentSulfur,
+          totalGramSulfur: totalGramSulfur,
           createdAt:
               createdAt ?? DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
         );
@@ -84,6 +92,10 @@ class ResultCountNutrientsAllFertilizersModel
       'total_gram_molibdenum': totalGramMolibdenum,
       'total_percent_seng': totalPercentSeng,
       'total_gram_seng': totalGramSeng,
+      'total_percent_kalsium': totalPercentKalsium,
+      'total_gram_kalsium': totalGramKalsium,
+      'total_percent_sulfur': totalPercentSulfur,
+      'total_gram_sulfur': totalGramSulfur,
       'created_at': createdAt,
     };
   }
@@ -115,6 +127,10 @@ class ResultCountNutrientsAllFertilizersModel
       totalGramMolibdenum: map['total_gram_molibdenum'] ?? 0.0,
       totalPercentSeng: map['total_percent_seng'] ?? 0.0,
       totalGramSeng: map['total_gram_seng'] ?? 0.0,
+      totalPercentKalsium: map['total_percent_kalsium'] ?? 0.0,
+      totalGramKalsium: map['total_gram_kalsium'] ?? 0.0,
+      totalPercentSulfur: map['total_percent_sulfur'] ?? 0.0,
+      totalGramSulfur: map['total_gram_sulfur'] ?? 0.0,
       createdAt: map['created_at'],
     );
   }
@@ -146,8 +162,12 @@ class ResultCountNutrientsAllFertilizersModel
       totalGramMolibdenum: entity.totalGramMolibdenum,
       totalPercentSeng: entity.totalPercentSeng,
       totalGramSeng: entity.totalGramSeng,
-      createdAt:
-          entity.createdAt ?? DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
+      totalPercentKalsium: entity.totalPercentKalsium,
+      totalGramKalsium: entity.totalGramKalsium,
+      totalPercentSulfur: entity.totalPercentSulfur,
+      totalGramSulfur: entity.totalGramSulfur,
+      createdAt: entity.createdAt ??
+          DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()),
     );
   }
 }

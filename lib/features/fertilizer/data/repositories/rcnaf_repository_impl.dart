@@ -29,6 +29,7 @@ class RcnafRepositoryImpl implements RcnafRepository {
       StringConst.COUNT_NUTRIENTS_ALL_FERTILIZERS_TABLE,
       where: 'created_at = ?',
       whereArgs: [DateFormatUtil.formatDateToYYYYMMDD(DateTime.now())],
+      orderBy: 'id DESC'
     );
 
     return result

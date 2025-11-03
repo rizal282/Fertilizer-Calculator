@@ -48,6 +48,8 @@ class DbHelper {
         mangan REAL,
         molibdenum REAL,
         seng REAL,
+        kalsium REAL,
+        sulfur REAL,
         created_at TEXT DEFAULT (datetime('now')),
         updated_at TEXT
       )
@@ -85,6 +87,10 @@ class DbHelper {
         total_gram_molibdenum REAL,
         total_percent_seng REAL,
         total_gram_seng REAL,
+        total_percent_kalsium REAL,
+        total_gram_kalsium REAL,
+        total_percent_sulfur REAL,
+        total_gram_sulfur REAL,
         created_at TEXT DEFAULT (datetime('now'))
       )
     ''');
@@ -122,6 +128,10 @@ class DbHelper {
         total_gram_molibdenum REAL,
         total_percent_seng REAL,
         total_gram_seng REAL,
+        total_percent_kalsium REAL,
+        total_gram_kalsium REAL,
+        total_percent_sulfur REAL,
+        total_gram_sulfur REAL,
         created_at TEXT DEFAULT (datetime('now'))
       )
     ''');

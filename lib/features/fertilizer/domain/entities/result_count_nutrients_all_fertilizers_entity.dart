@@ -23,6 +23,10 @@ class ResultCountNutrientsAllFertilizersEntity {
   final double totalGramMolibdenum;
   final double totalPercentSeng;
   final double totalGramSeng;
+  final double totalPercentKalsium;
+  final double totalGramKalsium;
+  final double totalPercentSulfur;
+  final double totalGramSulfur;
   final String? createdAt;
 
   const ResultCountNutrientsAllFertilizersEntity({
@@ -50,6 +54,10 @@ class ResultCountNutrientsAllFertilizersEntity {
     required this.totalGramMolibdenum,
     required this.totalPercentSeng,
     required this.totalGramSeng,
+    required this.totalPercentKalsium,
+    required this.totalGramKalsium,
+    required this.totalPercentSulfur,
+    required this.totalGramSulfur,
     this.createdAt,
   });
 }

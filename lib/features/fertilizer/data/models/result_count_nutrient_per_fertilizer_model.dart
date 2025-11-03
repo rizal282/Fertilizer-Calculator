@@ -1,7 +1,8 @@
 import 'package:pfg_app/core/utils/date_format_util.dart';
 import 'package:pfg_app/features/fertilizer/domain/entities/result_count_nutrient_per_fertilizer_entity.dart';
 
-class ResultCountNutrientPerFertilizerModel extends ResultCountNutrientPerFertilizerEntity {
+class ResultCountNutrientPerFertilizerModel
+    extends ResultCountNutrientPerFertilizerEntity {
   const ResultCountNutrientPerFertilizerModel({
     int? id,
     required String idRacikan,
@@ -27,6 +28,10 @@ class ResultCountNutrientPerFertilizerModel extends ResultCountNutrientPerFertil
     required double totalGramMolibdenum,
     required double totalPercentSeng,
     required double totalGramSeng,
+    required double totalPercentKalsium,
+    required double totalGramKalsium,
+    required double totalPercentSulfur,
+    required double totalGramSulfur,
     String? createdAt,
   }) : super(
           id: id,
@@ -53,8 +58,12 @@ class ResultCountNutrientPerFertilizerModel extends ResultCountNutrientPerFertil
           totalGramMolibdenum: totalGramMolibdenum,
           totalPercentSeng: totalPercentSeng,
           totalGramSeng: totalGramSeng,
+          totalPercentKalsium: totalPercentKalsium,
+          totalGramKalsium: totalGramKalsium,
+          totalPercentSulfur: totalPercentSulfur,
+          totalGramSulfur: totalGramSulfur,
           createdAt: createdAt,
-  );
+        );
 
   Map<String, dynamic> toMap() {
     return {
@@ -82,11 +91,16 @@ class ResultCountNutrientPerFertilizerModel extends ResultCountNutrientPerFertil
       'total_gram_molibdenum': totalGramMolibdenum,
       'total_percent_seng': totalPercentSeng,
       'total_gram_seng': totalGramSeng,
+      'total_percent_kalsium': totalPercentKalsium,
+      'total_gram_kalsium': totalGramKalsium,
+      'total_percent_sulfur': totalPercentSulfur,
+      'total_gram_sulfur': totalGramSulfur,
       'created_at': createdAt,
     };
   }
 
-  factory ResultCountNutrientPerFertilizerModel.fromMap(Map<String, dynamic> map) {
+  factory ResultCountNutrientPerFertilizerModel.fromMap(
+      Map<String, dynamic> map) {
     return ResultCountNutrientPerFertilizerModel(
       id: map['id'],
       idRacikan: map['id_racikan'],
@@ -112,39 +126,47 @@ class ResultCountNutrientPerFertilizerModel extends ResultCountNutrientPerFertil
       totalGramMolibdenum: map['total_gram_molibdenum'] ?? 0.0,
       totalPercentSeng: map['total_percent_seng'] ?? 0.0,
       totalGramSeng: map['total_gram_seng'] ?? 0.0,
+      totalPercentKalsium: map['total_percent_kalsium'] ?? 0.0,
+      totalGramKalsium: map['total_gram_kalsium'] ?? 0.0,
+      totalPercentSulfur: map['total_percent_sulfur'] ?? 0.0,
+      totalGramSulfur: map['total_gram_sulfur'] ?? 0.0,
       createdAt: map['created_at'],
     );
-  } 
+  }
 
   /// ✅ Convert dari Entity (domain layer) ke Model (data layer)
   factory ResultCountNutrientPerFertilizerModel.fromEntity(
       ResultCountNutrientPerFertilizerEntity entity) {
     return ResultCountNutrientPerFertilizerModel(
-      id: entity.id,
-      idRacikan: entity.idRacikan,
-      fertilizerName: entity.fertilizerName,
-      fertilizerWeightGrams: entity.fertilizerWeightGrams,
-      totalPercentNitrogen: entity.totalPercentNitrogen,
-      totalGramNitrogen: entity.totalGramNitrogen,
-      totalPercentPosfor: entity.totalPercentPosfor,
-      totalGramPosfor: entity.totalGramPosfor,
-      totalPercentKalium: entity.totalPercentKalium,
-      totalGramKalium: entity.totalGramKalium,
-      totalPercentBoron: entity.totalPercentBoron,
-      totalGramBoron: entity.totalGramBoron,
-      totalPercentTembaga: entity.totalPercentTembaga,
-      totalGramTembaga: entity.totalGramTembaga,
-      totalPercentBesi: entity.totalPercentBesi,
-      totalGramBesi: entity.totalGramBesi,
-      totalPercentMagnesium: entity.totalPercentMagnesium,
-      totalGramMagnesium: entity.totalGramMagnesium,
-      totalPercentMangan: entity.totalPercentMangan,
-      totalGramMangan: entity.totalGramMangan,
-      totalPercentMolibdenum: entity.totalPercentMolibdenum,
-      totalGramMolibdenum: entity.totalGramMolibdenum,
-      totalPercentSeng: entity.totalPercentSeng,
-      totalGramSeng: entity.totalGramSeng,
-      createdAt: entity.createdAt ?? DateFormatUtil.formatDateToYYYYMMDD(DateTime.now())
-    );
+        id: entity.id,
+        idRacikan: entity.idRacikan,
+        fertilizerName: entity.fertilizerName,
+        fertilizerWeightGrams: entity.fertilizerWeightGrams,
+        totalPercentNitrogen: entity.totalPercentNitrogen,
+        totalGramNitrogen: entity.totalGramNitrogen,
+        totalPercentPosfor: entity.totalPercentPosfor,
+        totalGramPosfor: entity.totalGramPosfor,
+        totalPercentKalium: entity.totalPercentKalium,
+        totalGramKalium: entity.totalGramKalium,
+        totalPercentBoron: entity.totalPercentBoron,
+        totalGramBoron: entity.totalGramBoron,
+        totalPercentTembaga: entity.totalPercentTembaga,
+        totalGramTembaga: entity.totalGramTembaga,
+        totalPercentBesi: entity.totalPercentBesi,
+        totalGramBesi: entity.totalGramBesi,
+        totalPercentMagnesium: entity.totalPercentMagnesium,
+        totalGramMagnesium: entity.totalGramMagnesium,
+        totalPercentMangan: entity.totalPercentMangan,
+        totalGramMangan: entity.totalGramMangan,
+        totalPercentMolibdenum: entity.totalPercentMolibdenum,
+        totalGramMolibdenum: entity.totalGramMolibdenum,
+        totalPercentSeng: entity.totalPercentSeng,
+        totalGramSeng: entity.totalGramSeng,
+        totalPercentKalsium: entity.totalPercentKalsium,
+        totalGramKalsium: entity.totalGramKalsium,
+        totalPercentSulfur: entity.totalPercentSulfur,
+        totalGramSulfur: entity.totalGramSulfur,
+        createdAt: entity.createdAt ??
+            DateFormatUtil.formatDateToYYYYMMDD(DateTime.now()));
   }
 }

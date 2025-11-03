@@ -19,7 +19,8 @@ import 'package:pfg_app/features/fertilizer/presentation/model/fertilizer_input.
 
 var _logger = Logger();
 
-Future<void> _countNutrientsInPercentAndGrams(BuildContext context, String idRacikan, List<FertilizerInput> fertilizers) async {
+Future<void> _countNutrientsInPercentAndGrams(BuildContext context,
+    String idRacikan, List<FertilizerInput> fertilizers) async {
   // rumus: kandungan nutrisi per kg / 1000 gram * berat pupuk dalam gram
 
   // rumus mencari jumlah nutrisi dalam 1000 gram pupuk:
@@ -64,10 +65,23 @@ Future<void> _countNutrientsInPercentAndGrams(BuildContext context, String idRac
           countNutrientPercent(StringConst.MOLIBDENUM, fertilizer),
       totalGramMolibdenum:
           countNutrientGram(StringConst.MOLIBDENUM, fertilizer),
+          
       totalPercentSeng: countNutrientPercent(StringConst.SENG, fertilizer),
       totalGramSeng: countNutrientGram(StringConst.SENG, fertilizer),
+
+      totalPercentKalsium: countNutrientGram(StringConst.KALSIUM, fertilizer),
+      totalGramKalsium: countNutrientPercent(StringConst.KALSIUM, fertilizer),
+      
+      totalPercentSulfur: countNutrientGram(StringConst.SULFUR, fertilizer),
+      totalGramSulfur: countNutrientPercent(StringConst.SULFUR, fertilizer),
       // createdAt: DateTime.now().toString()
     );
+
+    _logger.i("KADAR GRAM KALSIUM ${rcnpfEntity.totalGramKalsium}");
+    _logger.i("KADAR PERCENT KALSIUM ${rcnpfEntity.totalPercentKalsium}");
+
+    _logger.i("KADAR GRAM SULFUR ${rcnpfEntity.totalGramSulfur}");
+    _logger.i("KADAR PERCENT SULFUR ${rcnpfEntity.totalPercentSulfur}");
 
     await context.read<RcnpfBloc>().rcnpfRepository.insertRcnpf(rcnpfEntity);
   }
@@ -75,12 +89,14 @@ Future<void> _countNutrientsInPercentAndGrams(BuildContext context, String idRac
   _logger.i("====================================");
 }
 
-Future<void> _saveAllCountFertilizerNutrients(BuildContext context, String idRacikan, List<FertilizerInput> fertilizers) async {
+Future<void> _saveAllCountFertilizerNutrients(BuildContext context,
+    String idRacikan, List<FertilizerInput> fertilizers) async {
   context
       .read<RcnpfBloc>()
       .rcnpfRepository
       .getAllRcnpfsByIdRacikan(idRacikan)
       .then((rcnpfList) async {
+
     _logger.i("Saved RCNFP List:${rcnpfList.length}");
 
     final fertilizerNames = rcnpfList.map((e) => e.fertilizerName).join(', ');
@@ -150,6 +166,18 @@ Future<void> _saveAllCountFertilizerNutrients(BuildContext context, String idRac
     final totalSengInPercent = countNutrientPercents(
         totalAllWeightFertilizers, rcnpfList, 'total_percent_seng');
 
+    final totalKalsiumInGrams = countNutrientGrams(
+        totalAllWeightFertilizers, rcnpfList, 'total_gram_kalsium');
+
+    final totalKalsiumInPercent = countNutrientPercents(
+        totalAllWeightFertilizers, rcnpfList, 'total_percent_kalsium');
+
+    final totalSulfurInGrams = countNutrientGrams(
+        totalAllWeightFertilizers, rcnpfList, 'total_gram_sulfur');
+
+    final totalSulfurInPercent = countNutrientPercents(
+        totalAllWeightFertilizers, rcnpfList, 'total_percent_sulfur');
+
     final rcnafEntity = ResultCountNutrientsAllFertilizersEntity(
       idRacikan: idRacikan,
       fertilizerNames: fertilizerNames,
@@ -174,16 +202,21 @@ Future<void> _saveAllCountFertilizerNutrients(BuildContext context, String idRac
       totalGramMolibdenum: totalMolibdenumInGrams,
       totalPercentSeng: totalSengInPercent,
       totalGramSeng: totalSengInGrams,
+      totalPercentKalsium: totalKalsiumInPercent,
+      totalGramKalsium: totalKalsiumInGrams,
+      totalPercentSulfur: totalSulfurInPercent,
+      totalGramSulfur: totalSulfurInGrams
     );
 
     await context.read<RcnafBloc>().rcnafRepository.insertRcnaf(rcnafEntity);
-    await Future.delayed(const Duration(milliseconds: 300)); // beri waktu DB selesai
+    await Future.delayed(
+        const Duration(milliseconds: 300)); // beri waktu DB selesai
     context.read<RcnafBloc>().add(LoadRcnafEvent());
   });
 }
 
-Future<bool> saveDataFertilizer(BuildContext context, List<FertilizerInput> fertilizers) async {
-
+Future<bool> saveDataFertilizer(
+    BuildContext context, List<FertilizerInput> fertilizers) async {
   String idRacikan = uniqueIdRacikanGenerator();
 
   for (var fertilizer in fertilizers) {
@@ -217,6 +250,12 @@ Future<bool> saveDataFertilizer(BuildContext context, List<FertilizerInput> fert
     final seng =
         double.tryParse(fertilizer.nutrients[StringConst.SENG]!.text) ?? 0.0;
 
+    final kalsium =
+        double.tryParse(fertilizer.nutrients[StringConst.KALSIUM]!.text) ?? 0.0;
+
+    final sulfur =
+        double.tryParse(fertilizer.nutrients[StringConst.SULFUR]!.text) ?? 0.0;
+
     final fertilizerEntity = FertilizerEntity(
         idRacikan: idRacikan,
         namaPupuk: fertilizer.namaPupukController.text,
@@ -230,7 +269,9 @@ Future<bool> saveDataFertilizer(BuildContext context, List<FertilizerInput> fert
         magnesium: magnesium,
         mangan: mangan,
         molibdenum: molibdenum,
-        seng: seng);
+        seng: seng,
+        kalsium: kalsium,
+        sulfur: sulfur);
 
     context.read<FertilizerBloc>().add(AddFertilizerEvent(fertilizerEntity));
   }
