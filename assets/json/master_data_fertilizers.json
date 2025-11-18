@@ -1,0 +1,2422 @@
+{
+  "data": 
+    {
+      "fertilizers": [
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "PROVIT MAXI",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 6.0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 27.0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 38.0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.19},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.20},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.02}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "PROVIT ORANGE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 8},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 9},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 39},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "PROVIT MERAH",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 30},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1.4},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "PROVIT HIJAU",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 27},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 18},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 9},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeZA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 21},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 24},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeCPN",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke ESTA KIESER-MAG",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 26},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 21},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke KORN-KALI",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 40},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 6},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 4},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.8},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeFITOFLEX",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 2.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 5},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 2},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 7},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 2},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.1}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Mutiara",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 16},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 16},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 16},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Mutiara SPRINTER",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 10},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Mutiara PARTNER",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 13},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 13},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 24},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Mutiara PROFESSIONAL",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 9},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 25},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 25},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Mutiara GROWER",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 9},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 20},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0.2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeCPN",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeSOP",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 52},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 18},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeMOP",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 60},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 18},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeKKB",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 40},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 6},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 4},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.8},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "SuburKali BUTIR",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 30},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 10},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 17},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "SS (Ammophos)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 16},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 20},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 12},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "KARATE PLUS BORONI",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 26},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.3},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeFOSFAT",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 24},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 34},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.02},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke FLEX-G",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 8},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 9},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 39},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 4},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.14},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.032},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.006},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.029},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke MAG-S",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 16},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 32.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeMAP",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 61},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeKALINITRA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 13.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 46},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke TSP",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 46},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 14},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.02},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke NITRATE CA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 26},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.01},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeMKP",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 52},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 34},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeROCK",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 27},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke CN",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 26.3},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.3},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke ZINCO",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 17},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 33},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke MANGAN",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 18},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 31},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+       
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Cu",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 12},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 25},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke BORON",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 15},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke MOLY",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 7},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 54}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Mg-EDTA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 6},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeMix TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 7},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 4},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 3},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.5},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.1}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke CaB",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 26},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.3},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke PLUS",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 19},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 19},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 19},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.05},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke CALNIT",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 18.3},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "MerokeVITAFLEX",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15.5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 18.3},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 7.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 1.65},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 1.6},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 1.5},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.25}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Fe-EDDHA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 6},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Mikro Fe 13%",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 13},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Mikro Cu 15%",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 15},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Mikro Zn 15%",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 15},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Meroke Tetap Jaya",
+          "name": "Meroke Mikro Mn 13%",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 13},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "BASF",
+          "name": "Librel Fe-Hi (Fe EDDHA 7%)",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",     "value_in_percent": 0},
+            {"symbol": "P",  "nutrient_name": "Posfor",       "value_in_percent": 0},
+            {"symbol": "K",  "nutrient_name": "Kalium",       "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",      "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",    "value_in_percent": 0},
+            {"symbol": "S",  "nutrient_name": "Sulfur",       "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",         "value_in_percent": 7},
+            {"symbol": "Zn", "nutrient_name": "Seng",         "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",      "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan",       "value_in_percent": 0},
+            {"symbol": "B",  "nutrient_name": "Boron",        "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",   "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "BASF",
+          "name": "Librel BMX",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",      "value_in_percent": 0},
+            {"symbol": "P",  "nutrient_name": "Posfor",        "value_in_percent": 0},
+            {"symbol": "K",  "nutrient_name": "Kalium",        "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",       "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",     "value_in_percent": 0},
+            {"symbol": "S",  "nutrient_name": "Sulfur",        "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",          "value_in_percent": 3.35},
+            {"symbol": "Zn", "nutrient_name": "Seng",          "value_in_percent": 0.6},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",       "value_in_percent": 1.7},
+            {"symbol": "Mn", "nutrient_name": "Mangan",        "value_in_percent": 1.7},
+            {"symbol": "B",  "nutrient_name": "Boron",         "value_in_percent": 0.875},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",    "value_in_percent": 0.023}
+          ]
+        },
+        {
+          "manufacturer": "BASF",
+          "name": "Librel RMX 26",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",      "value_in_percent": 0},
+            {"symbol": "P",  "nutrient_name": "Posfor",        "value_in_percent": 0},
+            {"symbol": "K",  "nutrient_name": "Kalium",        "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",       "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",     "value_in_percent": 2},
+            {"symbol": "S",  "nutrient_name": "Sulfur",        "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",          "value_in_percent": 4},
+            {"symbol": "Zn", "nutrient_name": "Seng",          "value_in_percent": 1.5},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",       "value_in_percent": 1.5},
+            {"symbol": "Mn", "nutrient_name": "Mangan",        "value_in_percent": 4},
+            {"symbol": "B",  "nutrient_name": "Boron",         "value_in_percent": 0.5},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",    "value_in_percent": 0.1}
+          ]
+        },
+        {
+          "manufacturer": "BASF",
+          "name": "Librel Mn-EDTA 13%",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",     "value_in_percent": 0},
+            {"symbol": "P",  "nutrient_name": "Posfor",       "value_in_percent": 0},
+            {"symbol": "K",  "nutrient_name": "Kalium",       "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",      "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",    "value_in_percent": 0},
+            {"symbol": "S",  "nutrient_name": "Sulfur",       "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",         "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng",         "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",      "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan",       "value_in_percent": 13},
+            {"symbol": "B",  "nutrient_name": "Boron",        "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",   "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Javamas",
+          "name": "Genotive (Pupuk Daun Ionik)",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",     "value_in_percent": 12.43},
+            {"symbol": "P",  "nutrient_name": "Posfor", "value_in_percent": 60.67},
+            {"symbol": "K",  "nutrient_name": "Kalium",        "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",       "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",     "value_in_percent": 0},
+            {"symbol": "S",  "nutrient_name": "Sulfur",        "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",          "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng",          "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",       "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan",        "value_in_percent": 0},
+            {"symbol": "B",  "nutrient_name": "Boron",         "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",    "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Folium (Javamas)",
+          "name": "NPK Super Folium 20-20-25",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 20},
+            {"symbol": "K", "nutrient_name": "Kalium (K2O)", "value_in_percent": 25},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Folium (Javamas)",
+          "name": "NPK Super Folium 20-10-11 Ionic",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor (P2O5)", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium (K2O)", "value_in_percent": 11},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Sadewa Agri Jaya",
+          "name": "NPK Folium 20-10-11",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor (P2O5)", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium (K2O)", "value_in_percent": 11},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.5},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.2},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Javamas / Sadewa",
+          "name": "Java Higros Calsium Super",
+          "nutrient_contents": [
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 55.98},
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Javamas / Sadewa",
+          "name": "Java Higros Calsium (standar)",
+          "nutrient_contents": [
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 55.98},
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+         {
+          "manufacturer": "",
+          "name": "MgSO4",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 16},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 13},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "ZK (Kalium Sulfat)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 50},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 17},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Biofert",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 3},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 2},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 3},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.2},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.1},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.1},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.05},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Phosgreen",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 5},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 30},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Urea",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 46},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "ZA",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 21},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 24},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "SP-36",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 36},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petroganik",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 2},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 2},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 2},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Indonesia",
+          "name": "NPK Phonska 15-15-15",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 10},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kujang",
+          "name": "NPK 15-8-15",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 8},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 2},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kujang",
+          "name": "NPK Phonska Plus 12-12-17+2Mg",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 17},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 10},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kujang",
+          "name": "Phonska Plus 15-15-6+4Mg",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 6},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 4},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK Sawit 12-12-17+2Mg",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 17},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 3},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK Kopi 15-9-20+3Mg",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 9},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 20},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 2},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK Hortikultura 16-12-18",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 16},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 18},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 2},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK 10-52-10",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 10},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 52},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 10},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK 8-24-24",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 8},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 24},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 24},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK 16-16-16",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 16},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 16},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 16},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 3},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "Urea Granul",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 46},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK 20-10-10",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 10},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 2},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "NPK Pelangi Kakao",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 11},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 18},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Pupuk Kaltim",
+          "name": "Urea Daun Buah",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 46},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer / Distributor",
+          "name": "KCl (MOP)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 60},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer / Distributor",
+          "name": "SOP (Sulphate of Potash)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 50},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 18},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer / Distributor",
+          "name": "DAP (Diammonium Phosphate)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 18},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 46},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer / Distributor",
+          "name": "MAP (Monoammonium Phosphate)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 11},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 48},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer / Distributor",
+          "name": "TSP (Triple Super Phosphate)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 44},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PUSRI / Lokal",
+          "name": "Dolomit",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 25},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 18},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer",
+          "name": "Pupuk Daun Foliar 20-20-20",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 20},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 20},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer",
+          "name": "Pupuk Buah 8-24-24",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 8},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 24},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 24},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer",
+          "name": "Kalsium Nitrat",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 19},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer",
+          "name": "Calcium Ammonium Nitrate (CAN)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 25},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 10},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Importer",
+          "name": "Magnesium Sulfat",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 9},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 13},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Supplier",
+          "name": "Humic Acid",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.3},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.2},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.2},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.1},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Supplier",
+          "name": "Seaweed Extract",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 2},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.2},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.1},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.1},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.05},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Supplier",
+          "name": "Rock Phosphate",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 28},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Petani Lokal",
+          "name": "Pupuk Organik Kompos",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 2},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Petani Lokal",
+          "name": "Pupuk Kandang Sapi",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 2},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 2},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Kelompok Tani",
+          "name": "Compost Tea",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.2},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.1},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.1},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.05},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Kelompok Tani",
+          "name": "Bokashi",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 2},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "CV Agro Nusantara",
+          "name": "Biotani Plus",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.2},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.2},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.1},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "CV Agro Nusantara",
+          "name": "Urea Coated",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 46},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "CV Agro Nusantara",
+          "name": "Pupuk Dolomit Super",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 30},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 18},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "CV Agro Nusantara",
+          "name": "Bioripah",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.3},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.2},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.1},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "CV Agro Nusantara",
+          "name": "NPK 13-6-27",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 13},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 6},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 27},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 2},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Songgolangit Persada",
+          "name": "EM-4",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 1},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.1},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.1},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Produsen Hayati",
+          "name": "Trichoderma",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Produsen Hayati",
+          "name": "Mycorrhiza",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.5},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.2},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.2},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Lokal",
+          "name": "Pupuk Sayur 15-10-15",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Produsen Lokal",
+          "name": "Pupuk Cair Organik",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 2},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 1},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 2},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.3},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.2},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.1},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.2},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.1},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "Growmore Inc",
+          "name": "Fertimor",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 32},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 10},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Phonska",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 10},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "ZA (Amonium Sulfat)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20.8},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 23.8},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Phonska Plus",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 6},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 4},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.3},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Phonska Alam",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 10},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 10},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Kebomas 15-15-15",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.01},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.01},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Khusus Sawit 12-12-17+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 17},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Jagung 15-10-12+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 12},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 4},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.03},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Padi 16-16-16+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 16},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 16},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 16},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.03},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Hortikultura 12-12-17+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 17},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.03},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Kakao 15-8-15+3Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 8},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 6},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.03},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.03},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.005}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Biofertilizer",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Kopi 12-9-24+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 9},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 24},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Sawit 12-12-17+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 12},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 12},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 17},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "NPK Tebu 15-10-15+2Mg+TE",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 15},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 10},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 2},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Cas (Kalsium Sulfat)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 18},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 23},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Si (Silikat)",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 20},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 5},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.02},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.01},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petroganik Plus",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0.5},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0.5},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 1},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.5},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.5},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.1},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.05},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Biofertilizer Cair",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Pupuk Hayati Nitragin",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Humic",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 1},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 0.5},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 0.5},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0.2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.02},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.01},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "PT Petrokimia Gresik",
+          "name": "Petro Grow",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 3},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 2},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 3},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0.2},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0.1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0.1},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0.05},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0.05},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0.02},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0.02},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0.02},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0.01}
+          ]
+        },
+        {
+          "manufacturer": "Gandasil",
+          "name": "Gandasil B",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 6},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 20},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 30},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 3},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "Gandasil",
+          "name": "Gandasil D",
+          "nutrient_contents": [
+            {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 20},
+            {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 15},
+            {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 15},
+            {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 1},
+            {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+            {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+          ]
+        },
+        {
+          "manufacturer": "CV. Sadewa Agri Jaya / Pak Tani",
+          "name": "Ultradap Mono Ammonium Phosphate (MAP)",
+          "nutrient_contents": [
+            {"symbol": "N",  "nutrient_name": "Nitrogen",     "value_in_percent": 12},
+            {"symbol": "P",  "nutrient_name": "Posfor", "value_in_percent": 60},
+            {"symbol": "K",  "nutrient_name": "Kalium",       "value_in_percent": 0},
+            {"symbol": "Ca", "nutrient_name": "Kalsium",      "value_in_percent": 0},
+            {"symbol": "Mg", "nutrient_name": "Magnesium",    "value_in_percent": 0},
+            {"symbol": "S",  "nutrient_name": "Sulfur",       "value_in_percent": 0},
+            {"symbol": "Fe", "nutrient_name": "Besi",         "value_in_percent": 0},
+            {"symbol": "Zn", "nutrient_name": "Seng",         "value_in_percent": 0},
+            {"symbol": "Cu", "nutrient_name": "Tembaga",      "value_in_percent": 0},
+            {"symbol": "Mn", "nutrient_name": "Mangan",       "value_in_percent": 0},
+            {"symbol": "B",  "nutrient_name": "Boron",        "value_in_percent": 0},
+            {"symbol": "Mo", "nutrient_name": "Molibdenum",   "value_in_percent": 0}
+          ]
+        },
+        {
+            "manufacturer": "Pak Tani",
+            "name": "MKP Pak Tani (Mono Kalium Phosphate)",
+            "nutrient_contents": [
+              {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+              {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 52},
+              {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 34},
+              {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+              {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+              {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+              {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+              {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+              {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+              {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+              {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+              {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+            ]
+          },
+          {
+            "manufacturer": "Santagrow",
+            "name": "MKP Santagrow (Mono Kalium Phosphate)",
+            "nutrient_contents": [
+              {"symbol": "N", "nutrient_name": "Nitrogen", "value_in_percent": 0},
+              {"symbol": "P", "nutrient_name": "Posfor", "value_in_percent": 51},
+              {"symbol": "K", "nutrient_name": "Kalium", "value_in_percent": 32},
+      {"symbol": "Ca", "nutrient_name": "Kalsium", "value_in_percent": 0},
+      {"symbol": "Mg", "nutrient_name": "Magnesium", "value_in_percent": 0},
+      {"symbol": "S", "nutrient_name": "Sulfur", "value_in_percent": 0},
+      {"symbol": "Fe", "nutrient_name": "Besi", "value_in_percent": 0},
+      {"symbol": "Zn", "nutrient_name": "Seng", "value_in_percent": 0},
+      {"symbol": "Cu", "nutrient_name": "Tembaga", "value_in_percent": 0},
+      {"symbol": "Mn", "nutrient_name": "Mangan", "value_in_percent": 0},
+      {"symbol": "B", "nutrient_name": "Boron", "value_in_percent": 0},
+      {"symbol": "Mo", "nutrient_name": "Molibdenum", "value_in_percent": 0}
+    ]
+  }
+      ]
+    }
+  
+}

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "65399674922",
+    "project_id": "akurasi-pupuk-app",
+    "storage_bucket": "akurasi-pupuk-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65399674922:android:449ce9b834d6d7391a8b53",
+        "android_client_info": {
+          "package_name": "com.apdev.akurasipupuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65399674922-58upencm6m38avcuk5c563pdmc14rps8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apdev.akurasipupuk",
+            "certificate_hash": "edc0aa36e562489d81e787e4b2bd6ad43dc62c1c"
+          }
+        },
+        {
+          "client_id": "65399674922-cjhrouh96r0rs88dnlq1vgf4v2509vg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apdev.akurasipupuk",
+            "certificate_hash": "dd9b3e42f37441a3efea6aaf0d2be1b649c9be60"
+          }
+        },
+        {
+          "client_id": "65399674922-d5rmnqnq0sc50pi6p3o3enehl0arsa7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIDbBMKahuU4CLIfGcdCG1eNdL8YQm48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65399674922-d5rmnqnq0sc50pi6p3o3enehl0arsa7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65399674922-jrg246evgmjk05eeqic9t6f8gqqs1h7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pfgApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

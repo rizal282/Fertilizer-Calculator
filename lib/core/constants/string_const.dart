@@ -1,27 +1,63 @@
 class StringConst {
-  static const String APP_TITLE = 'PFG App';
-  static const String FERTILIZER_PAGE_TITLE = 'Fertilizer Calculator';
-  static const String ADD_FERTILIZER_BTN_LABEL = 'Tambah Pupuk';
-  static const String SAVE_FERTILIZER_BTN_LABEL = 'Hitung Fertilizers';
+  static const String appTitle = 'Akurasi Pupuk';
+  static const String fertilizerPageTitle = 'Hitung Manual';
+  static const String fertilizerWeightTitle = 'Hitung Otomatis';
+  static const String addFertilizerBtnLabel = 'Tambah Pupuk';
+  static const String saveFertilizerBtnLabel = 'Hitung!';
 
-  static const String RESET_FORM_BTN_LABEL = "Reset";
+  static const String resetFormBtnLabel = "Reset";
 
   // Table Names
-  static const String FERTILIZERS_TABLE = 'fertilizers';
-  static const String RESULT_COUNT_NUTRIENTS_PER_FERTILIZER_TABLE = 'result_count_nutrients_per_fertilizer';
-  static const String COUNT_NUTRIENTS_ALL_FERTILIZERS_TABLE = 'count_nutrients_all_fertilizers';
+  static const String usersTable = 'users';
+
+  static const String fertilizersTable = 'fertilizers';
+  static const String resultCountNutrientsPerFertilizerTable =
+      'result_count_nutrients_per_fertilizer';
+  static const String countNutrientsAllFertilizersTable =
+      'count_nutrients_all_fertilizers';
+
+  static const String targetNutrientsPercentTable = 'target_percent_nutrients';
+
+  static const String resultCountWeightFertilizerTable = 'result_count_weight_fertilizer';
+
+  static const String accuracyTargetPercentT = 'accuracy_target_percent';
+
+  static const String deviationTargetPercent = 'deviation_target_percent';
+
+  static const String ppmSolutionConcestration = 'ppm_solution_concentration';
 
   // Nutrient Names
-  static const String NITROGEN = 'Nitrogen';
-  static const String POSFOR = 'Posfor';
-  static const String KALIUM = 'Kalium';
-  static const String BORON = 'Boron';
-  static const String TEMBAGA = 'Tembaga';
-  static const String BESI = 'Besi';
-  static const String MAGNESIUM = 'Magnesium';
-  static const String MANGAN = 'Mangan';
-  static const String MOLIBDENUM = 'Molibdenum';
-  static const String SENG = 'Seng';
-  static const String KALSIUM = 'Kalsium';
-  static const String SULFUR = 'Sulfur';
+  static const String nitrogen = 'Nitrogen';
+  static const String posfor = 'Posfor';
+  static const String kalium = 'Kalium';
+  static const String boron = 'Boron';
+  static const String tembaga = 'Tembaga';
+  static const String besi = 'Besi';
+  static const String magnesium = 'Magnesium';
+  static const String mangan = 'Mangan';
+  static const String molibdenum = 'Molibdenum';
+  static const String seng = 'Seng';
+  static const String kalsium = 'Kalsium';
+  static const String sulfur = 'Sulfur';
+
+  // default weight
+  static const double defaultWeightAfterMix = 1000.0;
+
+
+  // images
+  static const String imageAppHome = "assets/images/akurasi-pupuk_bg-putih.svg";
+
+  static String countTypePercent = '1';
+  static String countTypeWeight = '2';
+
+  // count type from PPM page form
+  static String countTypePPM = '1';
+  static String countTypeMassaZatTerlarut = '2';
+  static String countTypeVolumeLarutan = '3';
+
+  // source PPM
+  static const String sourcePpmFromResultPage = '1';
+  static const String sourcePpmFromCountPPMForm = '2';
+
+  static const String serverClientId = "65399674922-d5rmnqnq0sc50pi6p3o3enehl0arsa7q.apps.googleusercontent.com";
 }

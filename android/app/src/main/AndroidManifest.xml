@@ -1,8 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="PFG App"
+        android:label="Akurasi Pupuk"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="com.apdev.akurasipupuk" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
